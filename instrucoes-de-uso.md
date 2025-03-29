@@ -1,0 +1,1 @@
+Adicione esse CSS em temas que permitam customização ou via HTML embutido em rótulos.
